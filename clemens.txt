@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 en wat staat hier nou?
 weer wat anders.
 branch3
 
+=======
+>>>>>>> parent of 9b7ba75 (changed)
