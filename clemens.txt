@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+en wat staat hier nou?
+weer wat anders.
+opgelost!
+
+=======
 test
+>>>>>>> 0fe31d326b1320c5c1e64491697dc455c9dfaa79
